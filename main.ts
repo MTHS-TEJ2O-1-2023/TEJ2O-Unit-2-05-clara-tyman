@@ -11,8 +11,7 @@ basic.pause(1000)
 
 // varible
 let temperature: number
-input.onButtonPressed(Button.A, function(){
-
+input.onButtonPressed(Button.A, function () {
   // input
   temperature = input.temperature()
 
