@@ -9,9 +9,8 @@ basic.clearScreen()
 basic.showIcon(IconNames.Happy)
 basic.pause(1000)
 
-  // varible
+// varible
 let temperature: number
-
 input.onButtonPressed(Button.A, function () {
 
   // input
